@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I'm a music aficionado and often find coding rhythms in sync with my favorite tunes, harmonizing technology and creativity! 🎵💻🎶**
 
+- ⚡ Fun fact: I treat code like poetry—clean, expressive, and always with meaning between the lines. 🖋️💻✨
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaj-priyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu" height="30" width="40" /></a>
