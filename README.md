@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/priyanshujaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/priyanshassr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/yourusername" target="blank">
-<img width="30" height="40" src="https://img.icons8.com/ios/50/fiverr--v2.png" alt="fiverr--v2"/></a>
+<img width="40" height="30" src="https://img.icons8.com/ios/50/fiverr--v2.png" alt="fiverr--v2"/></a>
 </p>
 
 
