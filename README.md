@@ -16,8 +16,19 @@
 <a href="https://www.leetcode.com/priyanshujaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/priyanshassr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshu" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/yourusername" target="blank">
-<img align="center" height="30" width="40" src="https://img.icons8.com/ios/50/fiverr--v2.png" alt="fiverr--v2" style="color: green;"/></a>
+<img align="center" height="40" width="40" src="https://img.icons8.com/ios/50/fiverr--v2.png" alt="fiverr--v2" style="color: green;"/></a>
+  <a href="https://www.fiverr.com/yourusername" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="30" viewBox="0,0,256,256">
+    <g fill="#1dbf73" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+      <g transform="scale(5.12,5.12)">
+        <path d="M25,2c-12.69071,0 -23,10.3093 -23,23c0,12.6907 10.30929,23 23,23c12.69071,0 23,-10.3093 23,-23c0,-12.6907 -10.30929,-23 -23,-23zM25,4c11.60983,0 21,9.39017 21,21c0,11.60983 -9.39017,21 -21,21c-11.60983,0 -21,-9.39017 -21,-21c0,-11.60982 9.39017,-21 21,-21zM26.5,11c-4.921,0 -8.09089,3.037 -8.46289,8h-4.03711v6h4v11h6v-11h4v11h6v-17h-9.93359c0.294,-1.999 1.51259,-2 2.43359,-2h2.53125v-6z"></path>
+      </g>
+    </g>
+  </svg>
+</a>
+
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
