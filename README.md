@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **priyanshujaj.work@gmail.com**
 
-- ⚡ Fun fact **I'm a music aficionado and often find coding rhythms in sync with my favorite tunes, harmonizing technology and creativity! 🎵💻🎶**
-
-- ⚡ Fun fact: I treat code like poetry—clean, expressive, and always with meaning between the lines. 🖋️💻✨
+- ⚡ Fun fact: **I treat code like poetry—clean, expressive, and always with meaning between the lines. 🖋️💻✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
