@@ -5,7 +5,7 @@ I’m passionate about building products, solving real-world problems, and divin
 
 🌱 Currently learning: Advanced backend dev, systems design  
 🛠️ Tech I use: JavaScript, Node.js, React, MongoDB, Express, Git  
-💡 Interests: Philosophy, Physics, Psychology, and Big Ideas  
+💡 Interests: Technologies , Physics, Math, Psychology and Big Ideas  
 📫 How to reach me: priyanshujaj.work@gmail.com | [LinkedIn](https://linkedin.com/in/jaj-priyanshu)
 
 > "Code is poetry. I write to build and think to solve."
