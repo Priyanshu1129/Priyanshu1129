@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu1129](https://github.com/Priyanshu1129)
 
-- 📫 How to reach me **priyanshujaj.work@gmail.com**
+- 📫 How to reach me **sde.priyanshujaj@gmail.com**
 
 - ⚡ Fun fact: **I treat code like poetry—clean, expressive, and always with meaning between the lines. 🖋️💻✨**
 
